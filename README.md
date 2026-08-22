@@ -64,10 +64,10 @@
 
 <div align="center">
 
-<!-- NATIVE LOCAL SVG HUD CARD — 100% RELIABLE & NEVER FAILS ON GITHUB -->
-<img src="./spider-telemetry.svg" width="100%" alt="Spider-Man HUD Telemetry Card" />
-
-<br/><br/>
+<p align="center">
+  <img src="./spider-telemetry.svg" width="48%" alt="Spider-Man Telemetry" />
+  <img src="./spider-skills-matrix.svg" width="48%" alt="Tech Stack Matrix" />
+</p>
 
 [![GitHub Repositories](https://img.shields.io/badge/Missions_Completed-10+_Projects-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrelHD?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/FerrelHD?style=for-the-badge&logo=github&label=Allies&color=D31F1F)](https://github.com/FerrelHD?tab=followers)

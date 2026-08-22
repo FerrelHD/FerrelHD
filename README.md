@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/LIVE%20PORTFOLIO-Spider--Verse%20Web-D31F1F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferrelhd.github.io/Portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
 [![Email](https://img.shields.io/badge/Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=FerrelHD&label=Profile%20Views&color=D31F1F&style=for-the-badge)
 
 <br/>
 
@@ -59,16 +60,15 @@
 
 ---
 
-### 📊 SPIDER-OS TELEMETRY (GitHub Stats)
+### 📊 SPIDER-OS TELEMETRY (GitHub Telemetry)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=tokyonight&hide_border=false&border_color=D31F1F&title_color=FFD500&icon_color=165DFF&text_color=FFFFFF" height="165" alt="FerrelHD's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrelHD&layout=compact&theme=tokyonight&hide_border=false&border_color=D31F1F&title_color=FFD500&text_color=FFFFFF" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=FerrelHD&theme=radical&background=0D1117&border=D31F1F&stroke=D31F1F&ring=D31F1F&fire=FFD500&currStreakLabel=FFD500" alt="GitHub Streak Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerrelHD&theme=tokyonight&hide_border=false&border=D31F1F&ring=D31F1F&fire=FFD500&currStreakLabel=FFD500" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FerrelHD&theme=react-dark&custom_title=Spider-Man%20Contribution%20Telemetry&bg_color=0D1117&color=D31F1F&line=165DFF&point=FFD500&area=true&hide_border=false&border_color=D31F1F" alt="Contribution Graph Telemetry" />
 
 </div>
 

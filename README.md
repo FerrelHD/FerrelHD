@@ -60,13 +60,13 @@
 
 ---
 
-### 📊 SPIDER-OS TELEMETRY (Developer Matrix)
+### 📊 SPIDER-OS TELEMETRY (Engineering Standards & Matrix)
 
 <div align="center">
 
 <p align="center">
-  <img src="./spider-telemetry.svg" width="48%" alt="Spider-Man Telemetry" />
-  <img src="./spider-skills-matrix.svg" width="48%" alt="Tech Stack Matrix" />
+  <img src="./engineering-standards.svg" width="48%" alt="Engineering Standards Telemetry" />
+  <img src="./cross-discipline-matrix.svg" width="48%" alt="Cross-Discipline Matrix" />
 </p>
 
 [![GitHub Repositories](https://img.shields.io/badge/Missions_Completed-10+_Projects-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrelHD?tab=repositories)

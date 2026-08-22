@@ -60,15 +60,18 @@
 
 ---
 
-### 📊 SPIDER-OS TELEMETRY (GitHub Telemetry)
+### 📊 SPIDER-OS TELEMETRY (Developer Matrix)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=FerrelHD&theme=radical&background=0D1117&border=D31F1F&stroke=D31F1F&ring=D31F1F&fire=FFD500&currStreakLabel=FFD500" alt="GitHub Streak Stats" />
+<!-- NATIVE LOCAL SVG HUD CARD — 100% RELIABLE & NEVER FAILS ON GITHUB -->
+<img src="./spider-telemetry.svg" width="100%" alt="Spider-Man HUD Telemetry Card" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FerrelHD&theme=react-dark&custom_title=Spider-Man%20Contribution%20Telemetry&bg_color=0D1117&color=D31F1F&line=165DFF&point=FFD500&area=true&hide_border=false&border_color=D31F1F" alt="Contribution Graph Telemetry" />
+[![GitHub Repositories](https://img.shields.io/badge/Missions_Completed-10+_Projects-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrelHD?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/FerrelHD?style=for-the-badge&logo=github&label=Allies&color=D31F1F)](https://github.com/FerrelHD?tab=followers)
+[![Developer Status](https://img.shields.io/badge/Status-Ready_For_Action-FFD500?style=for-the-badge&logo=statuspage&logoColor=black)](https://ferrelhd.github.io/Portofolio/)
 
 </div>
 

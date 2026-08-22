@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0A0D12"/>
+    </linearGradient>
+    <linearGradient id="redAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D31F1F"/>
+      <stop offset="100%" stop-color="#FF4081"/>
+    </linearGradient>
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#165DFF"/>
+      <stop offset="100%" stop-color="#00D2FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 900; font-size: 17px; fill: #FFFFFF; letter-spacing: 1.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 11px; fill: #FFD500; letter-spacing: 2px; }
+    .label { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-weight: 700; font-size: 12px; fill: #8B949E; }
+    .val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 13px; fill: #FFFFFF; }
+    .badge { font-family: 'JetBrains Mono', Consolas, monospace; font-weight: 800; font-size: 11px; fill: #10B981; }
+    .code-pill { font-family: 'JetBrains Mono', Consolas, monospace; font-weight: 700; font-size: 11px; fill: #58A6FF; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="796" height="316" rx="14" fill="url(#bgGrad)" stroke="#D31F1F" stroke-width="2.5" />
+  
+  <!-- Outer Corner Comic Accent Brackets -->
+  <path d="M 12 30 L 12 12 L 30 12" stroke="#FFD500" stroke-width="3" fill="none"/>
+  <path d="M 788 30 L 788 12 L 770 12" stroke="#FFD500" stroke-width="3" fill="none"/>
+  <path d="M 12 290 L 12 308 L 30 308" stroke="#165DFF" stroke-width="3" fill="none"/>
+  <path d="M 788 290 L 788 308 L 770 308" stroke="#165DFF" stroke-width="3" fill="none"/>
+
+  <!-- Header Section -->
+  <g transform="translate(30, 24)">
+    <!-- Spider Icon Circle -->
+    <circle cx="20" cy="20" r="18" fill="#D31F1F" stroke="#FFD500" stroke-width="2"/>
+    <text x="20" y="26" text-anchor="middle" font-size="18">🕷️</text>
+    
+    <!-- Header Titles -->
+    <text x="50" y="16" class="subtitle">PARKER LABS • TELEMETRY HUD v3.0</text>
+    <text x="50" y="34" class="title">DEVELOPER STATUS: ACTIVE</text>
+    
+    <!-- Live Status Pill -->
+    <rect x="610" y="4" width="130" height="26" rx="13" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="625" cy="17" r="4" fill="#10B981" filter="url(#glow)"/>
+    <text x="636" y="21" class="badge">OPEN TO WORK</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="30" y1="78" x2="770" y2="78" stroke="#30363D" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Left Column: Core Telemetry -->
+  <g transform="translate(35, 96)">
+    <!-- Row 1 -->
+    <text x="0" y="15" class="label">OPERATIVE:</text>
+    <text x="140" y="15" class="val">Ferrel Rashad Akeyla</text>
+
+    <!-- Row 2 -->
+    <text x="0" y="45" class="label">CLASS / ROLE:</text>
+    <text x="140" y="45" class="val">Full-Stack Web Dev &amp; Creative Technologist</text>
+
+    <!-- Row 3 -->
+    <text x="0" y="75" class="label">HEADQUARTERS:</text>
+    <text x="140" y="75" class="val">Indonesia 🇮🇩 (Remote Worldwide)</text>
+
+    <!-- Row 4 -->
+    <text x="0" y="105" class="label">CORE WEAPONS:</text>
+    <text x="140" y="105" class="code-pill">React 19 • Next.js • TypeScript • Tailwind • Node.js</text>
+
+    <!-- Row 5 -->
+    <text x="0" y="135" class="label">CREATIVE ARSENAL:</text>
+    <text x="140" y="135" class="code-pill">Figma UI/UX • Blender 3D • Premiere Pro • Unity</text>
+  </g>
+
+  <!-- Right Column / Bottom Highlights Box -->
+  <g transform="translate(30, 248)">
+    <rect x="0" y="0" width="740" height="48" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="16" y="18" class="label">MISSION STATEMENT:</text>
+    <text x="16" y="36" class="val" font-size="12" fill="#E6EDF3">"Building high-performance, immersive web multiverse experiences with 60 FPS precision."</text>
+    <text x="680" y="29" font-size="18">🕸️⚡</text>
+  </g>
+</svg>

@@ -103,8 +103,7 @@ const developer = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FerrelHD&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br/><br/>
-  <img src="https://github-readme-stats.hackclub.app/api?username=FerrelHD&show_icons=true&theme=tokyonight&hide_border=true" alt="Ferrel's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.hackclub.app/api/top-langs/?username=FerrelHD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FerrelHD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---

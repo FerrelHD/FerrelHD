@@ -1,1 +1,116 @@
-<div align="center"> # Hi, I'm Ferrel Rashad 👋 ### Web Developer, Game Developer & Creative Technologist [![Portfolio](https://img.shields.io/badge/Portfolio-ferrelhd.github.io-165DFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferrelhd.github.io/Portofolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/) [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com) <p align="center"> 📍 Depok, Indonesia &nbsp;|&nbsp; 💼 Open for Roles, Freelance &amp; Creative Collaborations </p> </div> --- ### ⚡ About Me ```javascript const developer = { name: "Ferrel Rashad Akeyla", roles: ["Frontend / Creative Developer", "Game Developer", "NLP Researcher"], location: "Depok, Indonesia", coreFrontend: ["React", "Vue.js", "Vite", "Tailwind CSS", "TypeScript"], motionAndCreative: ["GSAP", "Framer Motion", "Lenis", "Three.js", "Blender 3D"], backendAndML: ["Laravel", "Python", "PyTorch", "MySQL"], gameEngines: ["Unity (C#)", "Roblox Studio (Luau)"], philosophy: "Merging smooth cinematic animations with robust web & game architectures", }; ``` --- ### 🛠️ Tech Stack & Arsenal <p align="center"> <b>Frontend & Frameworks</b><br/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </p> <p align="center"> <b>Motion, 3D & Creative Web</b><br/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /> <img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=flat-square&logo=scroll&logoColor=white" alt="Lenis" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" /> </p> <p align="center"> <b>Backend, Machine Learning & Game Dev</b><br/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" /> <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Studio" /> </p> --- ### 🚀 Selected Repositories & Works <table> <tr> <td width="50%" valign="top"> <h3>🕷️ Spider-Verse Interactive Portfolio</h3> <p>Personal portfolio interaktif bertema modern Spider-Verse dengan fluid motion, dynamic web animations, and responsive interactive elements.</p> <p><code>React</code> • <code>GSAP</code> • <code>Framer Motion</code> • <code>Lenis</code> • <code>Tailwind CSS</code></p> <a href="https://ferrelhd.github.io/Portofolio/"><b>Live Demo →</b></a> &nbsp;|&nbsp; <a href="https://github.com/FerrelHD/Portofolio"><b>GitHub Repo →</b></a> </td> <td width="50%" valign="top"> <h3>🤖 Roblox Sentiment Analysis</h3> <p>Pipeline riset Natural Language Processing untuk evaluasi dan klasifikasi sentimen ulasan Roblox menggunakan fine-tuned Transformers.</p> <p><code>Python</code> • <code>IndoBERT / RoBERTa</code> • <code>PyTorch</code></p> <a href="https://github.com/FerrelHD?tab=repositories"><b>View Project →</b></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🌐 Modern Reactive Web Apps</h3> <p>Eksplorasi arsitektur SPA dan reactive UI berbasis component-driven development dengan animasi micro-interactions yang mulus.</p> <p><code>Vue.js</code> • <code>React</code> • <code>Vite</code> • <code>Laravel API</code></p> <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Repos →</b></a> </td> <td width="50%" valign="top"> <h3>🎮 3D Game Mechanics & Physics</h3> <p>Eksplorasi gameplay mechanics, character controller, level design, dan 3D environment assets.</p> <p><code>Unity (C#)</code> • <code>Roblox Studio (Luau)</code> • <code>Blender</code></p> <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Games →</b></a> </td> </tr> </table> --- ### 📊 GitHub Activity & Stats <div align="center"> <img src="https://streak-stats.demolab.com?user=FerrelHD&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br/><br/> <img src="https://github-profile-trophy.vercel.app/?username=FerrelHD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </div> --- <div align="center"> ``` "Turning ideas into clean code, silky smooth animations, and immersive digital experiences." ``` </div>
+<div align="center">
+
+# Hi, I'm Ferrel Rashad 👋
+### Web Developer, Game Developer & Creative Technologist
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ferrelhd.github.io-165DFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferrelhd.github.io/Portofolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
+
+<p align="center">
+  📍 Depok, Indonesia &nbsp;|&nbsp; 💼 Open for Roles, Freelance &amp; Creative Collaborations
+</p>
+
+</div>
+
+---
+
+### ⚡ About Me
+
+```javascript
+const developer = {
+  name: "Ferrel Rashad Akeyla",
+  roles: ["Frontend / Creative Developer", "Game Developer", "NLP Researcher"],
+  location: "Depok, Indonesia",
+  coreFrontend: ["React", "Vue.js", "Vite", "Tailwind CSS", "TypeScript"],
+  motionAndCreative: ["GSAP", "Framer Motion", "Lenis", "Three.js", "Blender 3D"],
+  backendAndML: ["Laravel", "Python", "PyTorch", "MySQL"],
+  gameEngines: ["Unity (C#)", "Roblox Studio (Luau)"],
+  philosophy: "Merging smooth cinematic animations with robust web & game architectures",
+};
+```
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<p align="center">
+  <b>Frontend & Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <b>Motion, 3D & Creative Web</b><br/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=flat-square&logo=scroll&logoColor=white" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+<p align="center">
+  <b>Backend, Machine Learning & Game Dev</b><br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Studio" />
+</p>
+
+---
+
+### 🚀 Selected Repositories & Works
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕷️ Spider-Verse Interactive Portfolio</h3>
+      <p>Personal portfolio interaktif bertema modern Spider-Verse dengan fluid motion, dynamic web animations, and responsive interactive elements.</p>
+      <p><code>React</code> • <code>GSAP</code> • <code>Framer Motion</code> • <code>Lenis</code> • <code>Tailwind CSS</code></p>
+      <a href="https://ferrelhd.github.io/Portofolio/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 
+      <a href="https://github.com/FerrelHD/Portofolio"><b>GitHub Repo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Roblox Sentiment Analysis</h3>
+      <p>Pipeline riset Natural Language Processing untuk evaluasi dan klasifikasi sentimen ulasan Roblox menggunakan fine-tuned Transformers.</p>
+      <p><code>Python</code> • <code>IndoBERT / RoBERTa</code> • <code>PyTorch</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Modern Reactive Web Apps</h3>
+      <p>Eksplorasi arsitektur SPA dan reactive UI berbasis component-driven development dengan animasi micro-interactions yang mulus.</p>
+      <p><code>Vue.js</code> • <code>React</code> • <code>Vite</code> • <code>Laravel API</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Repos →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 3D Game Mechanics & Physics</h3>
+      <p>Eksplorasi gameplay mechanics, character controller, level design, dan 3D environment assets.</p>
+      <p><code>Unity (C#)</code> • <code>Roblox Studio (Luau)</code> • <code>Blender</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Games →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FerrelHD&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br/><br/>
+</div>
+
+---
+
+<div align="center">
+
+```
+"Turning ideas into clean code, silky smooth animations, and immersive digital experiences."
+```
+
+</div>

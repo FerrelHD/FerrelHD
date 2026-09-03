@@ -1,14 +1,14 @@
 <div align="center">
 
 # Hi, I'm Ferrel Rashad 👋
-### Full-Stack Web Developer & Creative Technologist
+### Web Developer, Game Developer & Creative Technologist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ferrelhd.github.io-165DFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferrelhd.github.io/Portofolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
 
 <p align="center">
-  📍 Depok, Indonesia &nbsp;|&nbsp; 💼 Open for Full-Time Roles &amp; Freelance Projects
+  📍 Depok, Indonesia &nbsp;|&nbsp; 💼 Open for Roles, Freelance &amp; Creative Collaborations
 </p>
 
 </div>
@@ -20,11 +20,13 @@
 ```javascript
 const developer = {
   name: "Ferrel Rashad Akeyla",
-  role: "Full-Stack Web Developer",
+  roles: ["Frontend / Creative Developer", "Game Developer", "NLP Researcher"],
   location: "Depok, Indonesia",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Node.js"],
-  creative: ["Blender 3D", "Video Editing", "Unity", "UI/UX Design"],
-  currentFocus: "Building high-performance web applications with seamless UX",
+  coreFrontend: ["React", "Vue.js", "Vite", "Tailwind CSS", "TypeScript"],
+  motionAndCreative: ["GSAP", "Framer Motion", "Lenis", "Three.js", "Blender 3D"],
+  backendAndML: ["Laravel", "Python", "PyTorch", "MySQL"],
+  gameEngines: ["Unity (C#)", "Roblox Studio (Luau)"],
+  philosophy: "Merging smooth cinematic animations with robust web & game architectures",
 };
 ```
 
@@ -33,59 +35,83 @@ const developer = {
 ### 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <b>Frontend & Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <b>Motion, 3D & Creative Web</b><br/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
-
-<p align="center">
-  <b>Backend & Database</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/REST_APIs-D31F1F?style=flat-square" alt="REST APIs" />
-</p>
-
-<p align="center">
-  <b>Creative & 3D Tools</b><br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=flat-square&logo=scroll&logoColor=white" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+<p align="center">
+  <b>Backend, Machine Learning & Game Dev</b><br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere-EA77FF?style=flat-square&logo=adobepremierepro&logoColor=black" alt="Premiere" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </p>
 
 ---
 
-### 🚀 Selected Works
+### 🚀 Selected Repositories & Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕷️ Spider-Verse Portfolio</h3>
-      <p>Web portofolio interaktif bergaya komik modern dengan Spider-Sense pulse, terminal command line, dan canvas game arcade.</p>
-      <p><code>React</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code></p>
+      <h3>🕷️ Spider-Verse Interactive Portfolio</h3>
+      <p>Personal portfolio interaktif bertema modern Spider-Verse dengan fluid motion, dynamic web animations, and responsive interactive elements.</p>
+      <p><code>React</code> • <code>GSAP</code> • <code>Framer Motion</code> • <code>Lenis</code> • <code>Tailwind CSS</code></p>
       <a href="https://ferrelhd.github.io/Portofolio/"><b>Live Demo →</b></a> &nbsp;|&nbsp; 
       <a href="https://github.com/FerrelHD/Portofolio"><b>GitHub Repo →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Full-Stack Web Applications</h3>
-      <p>Aplikasi web end-to-end dengan arsitektur scalable, autentikasi aman, REST API pipeline, dan database relational terstruktur.</p>
-      <p><code>Next.js</code> • <code>TypeScript</code> • <code>PostgreSQL</code></p>
-      <a href="https://github.com/FerrelHD?tab=repositories"><b>View Projects →</b></a>
+      <h3>🤖 Roblox Sentiment Analysis</h3>
+      <p>Pipeline riset Natural Language Processing untuk evaluasi dan klasifikasi sentimen ulasan Roblox menggunakan fine-tuned Transformers.</p>
+      <p><code>Python</code> • <code>IndoBERT / RoBERTa</code> • <code>PyTorch</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Modern Reactive Web Apps</h3>
+      <p>Eksplorasi arsitektur SPA dan reactive UI berbasis component-driven development dengan animasi micro-interactions yang mulus.</p>
+      <p><code>Vue.js</code> • <code>React</code> • <code>Vite</code> • <code>Laravel API</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Repos →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 3D Game Mechanics & Physics</h3>
+      <p>Eksplorasi gameplay mechanics, character controller, level design, dan 3D environment assets.</p>
+      <p><code>Unity (C#)</code> • <code>Roblox Studio (Luau)</code> • <code>Blender</code></p>
+      <a href="https://github.com/FerrelHD?tab=repositories"><b>Explore Games →</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ferrel's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrelHD&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
+
+---
+
 <div align="center">
 
 ```
-"Turning ideas into clean code and cinematic digital experiences."
+"Turning ideas into clean code, silky smooth animations, and immersive digital experiences."
 ```
 
 </div>

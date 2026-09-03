@@ -102,8 +102,19 @@ const developer = {
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FerrelHD&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /><br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=FerrelHD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="Ferrel's GitHub Stats"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FerrelHD&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ---

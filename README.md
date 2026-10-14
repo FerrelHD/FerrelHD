@@ -1,84 +1,46 @@
 <div align="center">
 
+<!-- Spider-Man Visual Accent -->
+<img src="https://media.giphy.com/media/BWD3CtucuBX2FVCAYQ/giphy.gif" width="130" alt="Spider-Verse" style="border-radius: 50%;" />
+
 # FERREL RASHAD AKEYLA
-### Creative Technologist & Game Developer
-**Depok, Indonesia**
 
-<br/>
+<!-- Kinetic Typing Subtitle -->
+<a href="https://ferrel-rashad-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=E23636&center=true&vCenter=true&width=550&lines=Friendly+Neighborhood+Creative+Technologist;Swinging+across+WebGL%2C+Three.js+%26+GLSL;Building+Kinetic+60FPS+Digital+Artifacts" alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/01_PORTFOLIO-ferrel--rashad--portfolio.vercel.app-FF5E36?style=for-the-badge&logo=vercel&logoColor=white)](https://ferrel-rashad-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/02_LINKEDIN-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
-[![Email](https://img.shields.io/badge/03_CONTACT-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
+<p>
+  <b>Depok, Indonesia</b> &nbsp;•&nbsp; 
+  <i>"With great compute comes great interactivity."</i> 🕷️
+</p>
 
-<br/><br/>
-
-> *"Crafting digital artifacts at the intersection of creative web, kinetic motion, and interactive systems."*
+<!-- Quick Action Badges -->
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ferrel--rashad--portfolio-E23636?style=for-the-badge&logo=vercel&logoColor=white)](https://ferrel-rashad-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
+[![Email](https://img.shields.io/badge/CONTACT-Email_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
 
 </div>
 
 ---
 
-### ✦ Curated Capabilities
+### 🕸️ Selected Web-Slinging Works
 
-```typescript
-interface CreativeTechnologist {
-  identity: "Ferrel Rashad Akeyla";
-  focus: ["WebGL / Creative Web", "Game Mechanics", "Applied NLP Intelligence"];
-  designPhilosophy: "Kinetic rhythm, architectural typography & seamless 60fps interaction";
-  currentExplorations: [
-    "Custom GLSL wave & distortion shaders",
-    "Hardware-accelerated View Transitions API",
-    "Real-time game physics in Unity & Roblox Luau"
-  ];
-}
-```
+| Project | Focus & Highlights | Stack & Links |
+| :--- | :--- | :--- |
+| **🕷️ Spider-Verse Portfolio** | Kinetic multiverse web experience with comic micro-interactions & fluid physics | `React` `GSAP` `Framer Motion`<br/>[**Live Showcase ↗**](https://ferrel-rashad-portfolio.vercel.app/) • [Code](https://github.com/FerrelHD/Portofolio) |
+| **🏛️ Araki LookBook** | Haute-couture editorial archive with GLSL wave shaders & circular wipe transition | `Vue 3` `Three.js` `Lenis` `GSAP`<br/>[**View Repo ↗**](https://github.com/FerrelHD/Araki-Art) |
+| **🤖 Roblox Sentiment NLP** | Large-scale sentiment intelligence pipeline using fine-tuned IndoBERT / RoBERTa | `Python` `PyTorch` `Transformers` |
+| **🎮 Spatial Mechanics** | 3D gameplay physics, custom character controller loops & virtual environments | `Unity (C#)` `Roblox (Luau)` `Blender` |
 
 ---
 
-### 🏛 Flagship Curation & Selected Works
+### ⚙️ Technical Arsenal
 
-#### 01 / Hirohiko Araki Haute-Couture Archive
-> **Interactive Editorial LookBook & WebGL Gallery**
->
-> Eksplorasi arsip visual kolaborasi mode Hirohiko Araki (Gucci, Musée du Louvre, Bulgari). Dilengkapi custom GLSL shaders, fluid Lenis smooth scrolling, non-cropping subpixel ratios, serta dual-layer circular wipe theme transition.
->
-> `Vue 3` • `Three.js` • `GSAP` • `Lenis` • `Tailwind CSS` • `Vite`
->
-> [**View Repository →**](https://github.com/FerrelHD/Araki-Art)
-
-#### 02 / Spider-Verse Interactive Portfolio
-> **Kinetic Multiverse Web Experience**
->
-> Personal portfolio interaktif bergaya komik modern Spider-Verse. Menampilkan micro-interactions kinetik, fluid physics animations, dynamic letterbox reveals, dan responsive storytelling multi-dimensi.
->
-> `React` • `GSAP` • `Framer Motion` • `Lenis` • `Tailwind CSS`
->
-> [**Live Showcase →**](https://ferrel-rashad-portfolio.vercel.app/) &nbsp;|&nbsp; [**View Repository →**](https://github.com/FerrelHD/Portofolio)
-
-#### 03 / Roblox Sentiment Intelligence
-> **Transformer-Based NLP Research Pipeline**
->
-> Riset Natural Language Processing untuk ekstraksi dan klasifikasi sentimen komunitas gaming skala besar menggunakan fine-tuned Transformers (IndoBERT / RoBERTa) dengan preprocessing pipeline komprehensif.
->
-> `Python` • `PyTorch` • `IndoBERT` • `Transformers` • `HuggingFace`
-
-#### 04 / Spatial Mechanics & Virtual Worlds
-> **Gameplay Physics, Controllers & 3D Assets**
->
-> Pengembangan game loop interaktif, custom character controllers, dynamic camera framing, dan pemodelan aset 3D untuk lingkungan virtual interaktif.
->
-> `Unity (C#)` • `Roblox Studio (Luau)` • `Blender 3D` • `ShaderLab`
-
----
-
-### ⚙ Technical Arsenal
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Creative Web & Motion** | `Three.js` `WebGL` `GLSL` `GSAP` `Lenis Smooth Scroll` `Framer Motion` `View Transitions API` |
-| **Reactive Architectures** | `Vue 3` `React` `TypeScript` `Vite` `Tailwind CSS` `HTML5 Canvas` |
-| **Game Worlds & 3D** | `Unity (C#)` `Roblox Studio (Luau)` `Blender 3D` `ShaderLab` |
-| **Backend & ML Core** | `Python` `PyTorch` `Transformers / NLP` `Laravel` `MySQL` `Git` |
+- **Creative Web & Shaders:** Three.js • WebGL / GLSL • GSAP • Lenis Scroll • Framer Motion • View Transitions API
+- **Frontend Architectures:** Vue 3 • React • TypeScript • Vite • Tailwind CSS • HTML5 Canvas
+- **Game Worlds & 3D:** Unity (C#) • Roblox Studio (Luau) • Blender 3D • ShaderLab
+- **Backend & AI Pipeline:** Python • PyTorch • Transformers / NLP • Laravel • MySQL • Git
 
 ---
 
@@ -93,12 +55,12 @@ interface CreativeTechnologist {
 
 <br/><br/>
 
-<!-- GitHub Overall Stats & Most Used Languages -->
+<!-- Stats & Top Languages Side by Side -->
 <a href="https://github.com/FerrelHD">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="Ferrel's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="Ferrel's GitHub Stats" height="160" />
 </a>
 <a href="https://github.com/FerrelHD">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrelHD&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrelHD&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" height="160" />
 </a>
 
 </div>
@@ -106,8 +68,9 @@ interface CreativeTechnologist {
 ---
 
 <div align="center">
-  <sub>Designed with precision & kinetic rhythm. Open for full-time roles, creative collaborations, and freelance engineering.</sub>
+  <sub>Open for full-time roles, creative collaborations, and freelance engineering.</sub>
   <br/><br/>
-  <a href="https://ferrel-rashad-portfolio.vercel.app/"><b>Back to Portfolio ↗</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:ferrelrashadakeyla2014@gmail.com"><b>Drop an Email ✉</b></a>
+  <a href="https://ferrel-rashad-portfolio.vercel.app/"><b>Portfolio ↗</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/FerrelHD"><b>GitHub @FerrelHD</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:ferrelrashadakeyla2014@gmail.com"><b>Get in Touch ✉</b></a>
 </div>

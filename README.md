@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Spider-Man Visual Accent -->
-<img src="https://media.giphy.com/media/BWD3CtucuBX2FVCAYQ/giphy.gif" width="130" alt="Spider-Verse" style="border-radius: 50%;" />
-
-# FERREL RASHAD AKEYLA
+<!-- Spider-Verse Kinetic Header Banner (100% Reliable SVG - Tidak akan pernah 'Content Not Available') -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E23636,18181B&height=180&section=header&text=FERREL%20RASHAD%20AKEYLA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=🕷️%20Creative%20Technologist%20%26%20Game%20Developer%20🕸️&descSize=17&descAlignY=62" width="100%" alt="Header" />
 
 <!-- Kinetic Typing Subtitle -->
 <a href="https://ferrel-rashad-portfolio.vercel.app/">

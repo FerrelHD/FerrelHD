@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Spider-Verse Kinetic Header Banner (100% Reliable SVG - Tidak akan pernah 'Content Not Available') -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E23636,18181B&height=180&section=header&text=FERREL%20RASHAD%20AKEYLA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=🕷️%20Creative%20Technologist%20%26%20Game%20Developer%20🕸️&descSize=17&descAlignY=62" width="100%" alt="Header" />
+# 🕷️ FERREL RASHAD AKEYLA 🕸️
 
-<!-- Kinetic Typing Subtitle -->
+<!-- Kinetic Typing Subtitle (Spider-Man Crimson Red) -->
 <a href="https://ferrel-rashad-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2500&pause=1000&color=E23636&center=true&vCenter=true&width=550&lines=Friendly+Neighborhood+Creative+Technologist;Swinging+across+WebGL%2C+Three.js+%26+GLSL;Building+Kinetic+60FPS+Digital+Artifacts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=2500&pause=1000&color=E23636&center=true&vCenter=true&width=550&lines=Friendly+Neighborhood+Creative+Technologist;Swinging+across+WebGL%2C+Three.js+%26+GLSL;Building+Kinetic+60FPS+Digital+Artifacts" alt="Typing SVG" />
 </a>
 
 <p>
   <b>Depok, Indonesia</b> &nbsp;•&nbsp; 
-  <i>"With great compute comes great interactivity."</i> 🕷️
+  <i>"With great compute comes great interactivity."</i>
 </p>
 
 <!-- Quick Action Badges -->

@@ -21,17 +21,6 @@
 
 ---
 
-### 🕸️ Selected Web-Slinging Works
-
-| Project | Focus & Highlights | Stack & Links |
-| :--- | :--- | :--- |
-| **🕷️ Spider-Verse Portfolio** | Kinetic multiverse web experience with comic micro-interactions & fluid physics | `React` `GSAP` `Framer Motion`<br/>[**Live Showcase ↗**](https://ferrel-rashad-portfolio.vercel.app/) • [Code](https://github.com/FerrelHD/Portofolio) |
-| **🏛️ Araki LookBook** | Haute-couture editorial archive with GLSL wave shaders & circular wipe transition | `Vue 3` `Three.js` `Lenis` `GSAP`<br/>[**View Repo ↗**](https://github.com/FerrelHD/Araki-Art) |
-| **🤖 Roblox Sentiment NLP** | Large-scale sentiment intelligence pipeline using fine-tuned IndoBERT / RoBERTa | `Python` `PyTorch` `Transformers` |
-| **🎮 Spatial Mechanics** | 3D gameplay physics, custom character controller loops & virtual environments | `Unity (C#)` `Roblox (Luau)` `Blender` |
-
----
-
 ### ⚙️ Technical Arsenal
 
 - **Creative Web & Shaders:** Three.js • WebGL / GLSL • GSAP • Lenis Scroll • Framer Motion • View Transitions API

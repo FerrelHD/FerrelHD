@@ -50,16 +50,6 @@
   <img src="https://streak-stats.demolab.com/?user=FerrelHD&theme=radical&hide_border=true&border_radius=8" alt="Ferrel's GitHub Streak" />
 </a>
 
-<br/><br/>
-
-<!-- Stats & Top Languages Side by Side -->
-<a href="https://github.com/FerrelHD">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerrelHD&show_icons=true&theme=radical&hide_border=true&border_radius=8" alt="Ferrel's GitHub Stats" height="160" />
-</a>
-<a href="https://github.com/FerrelHD">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrelHD&layout=compact&theme=radical&hide_border=true&border_radius=8" alt="Top Languages" height="160" />
-</a>
-
 </div>
 
 ---

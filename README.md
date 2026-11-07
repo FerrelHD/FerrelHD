@@ -34,9 +34,9 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/FerrelHD">
     <img
-      src="https://streak-stats.demolab.com/?user=FerrelHD&theme=dark&hide_border=true"
+      src="https://raw.githubusercontent.com/FerrelHD/FerrelHD/main/profile/streak.svg"
       alt="Ferrel's GitHub Streak"
     />
   </a>

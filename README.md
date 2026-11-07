@@ -34,10 +34,12 @@
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/FerrelHD">
-  <img src="https://streak-stats.demolab.com/?user=FerrelHD&theme=radical&hide_border=true&border_radius=8" alt="Ferrel's GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=FerrelHD&theme=dark&hide_border=true"
+      alt="Ferrel's GitHub Streak"
+    />
+  </a>
 
 </div>
 

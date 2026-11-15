@@ -12,10 +12,10 @@
   <i>"With great compute comes great interactivity."</i>
 </p>
 
-<!-- Quick Action Badges -->
+<!-- Quick Action Badges (Spider-Man Red & Blue Palette) -->
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ferrel--rashad--portfolio-E23636?style=for-the-badge&logo=vercel&logoColor=white)](https://ferrel-rashad-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ferrel_Rashad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
-[![Email](https://img.shields.io/badge/CONTACT-Email_Me-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ferrel_Rashad-0055B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferrel-rashad-8a165514b/)
+[![Email](https://img.shields.io/badge/CONTACT-Email_Me-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrelrashadakeyla2014@gmail.com)
 
 </div>
 
@@ -36,7 +36,7 @@
 
   <a href="https://github.com/FerrelHD">
     <img
-      src="https://raw.githubusercontent.com/FerrelHD/FerrelHD/main/profile/streak.svg"
+      src="./profile/streak.svg?v=2"
       alt="Ferrel's GitHub Streak"
     />
   </a>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ FERREL RASHAD AKEYLA 🕸️
+# FERREL RASHAD AKEYLA 
 
 <!-- Kinetic Typing Subtitle (Spider-Man Crimson Red) -->
 <a href="https://ferrel-rashad-portfolio.vercel.app/">

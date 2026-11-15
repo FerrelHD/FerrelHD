@@ -21,7 +21,7 @@
 
 ---
 
-### ⚙️ Technical Arsenal
+### Technical Arsenal
 
 - **Creative Web & Shaders:** Three.js • WebGL / GLSL • GSAP • Lenis Scroll • Framer Motion • View Transitions API
 - **Frontend Architectures:** Vue 3 • React • TypeScript • Vite • Tailwind CSS • HTML5 Canvas
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 Telemetry & Activity
+### Telemetry & Activity
 
 <div align="center">
 

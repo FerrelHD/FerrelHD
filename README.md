@@ -36,7 +36,7 @@
 
   <a href="https://github.com/FerrelHD">
     <img
-      src="./profile/streak.svg?v=2"
+      src="./profile/streak.svg?v=3"
       alt="Ferrel's GitHub Streak"
     />
   </a>

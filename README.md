@@ -45,6 +45,27 @@
 
 ---
 
+<h2 align="center">🕷️ SPIDER-VERSE CONTRIBUTIONS</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/FerrelHD/FerrelHD/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/FerrelHD/FerrelHD/output/github-snake.svg"
+    />
+    <img
+      alt="Spider-Man Contribution Snake"
+      src="https://raw.githubusercontent.com/FerrelHD/FerrelHD/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
 <div align="center">
   <sub>Open for full-time roles, creative collaborations, and freelance engineering.</sub>
   <br/><br/>

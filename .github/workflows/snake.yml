@@ -1,0 +1,33 @@
+name: Generate Spider-Man Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Spider-Man Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: FerrelHD
+          outputs: |
+            dist/github-snake.svg?color_snake=%23e62429&color_dots=%230d1117,%2313264a,%231b3a70,%232b5797,%23e62429
+            dist/github-snake-dark.svg?color_snake=%23ff3344&color_dots=%230d1117,%2313264a,%231b3a70,%232b5797,%23e62429
+
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

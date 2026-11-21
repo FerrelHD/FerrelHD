@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">SPIDEY CONTRIBUTIONS</h2>
+<h2 align="center">SNXKEE CONTRIBUTION</h2>
 
 <p align="center">
   <picture>
